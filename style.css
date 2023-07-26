@@ -6,7 +6,7 @@ body {
 }
 
 #starters_image_div {
-    border: 100px solid white;
+    border: 10px solid black;
     background-color: blue;
     color: white;
     text-align: center
@@ -44,7 +44,7 @@ h2 {
     background-color: lightgreen;
     margin: 50px;
     border-radius: 25px;
-    padding: 1000px;
+    padding: 50px
 
 }
 
